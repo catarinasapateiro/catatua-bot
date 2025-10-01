@@ -38,8 +38,6 @@ If set up correctly, you’ll see:
 
 🚀 Backend server running on http://localhost:3080
 
-
-
 💻 **Frontend Setup**
 ▶️ 1. Install frontend dependencies
 cd frontend
@@ -52,4 +50,3 @@ npm start
 
 Open http://localhost:3000
 in your browser.
-
